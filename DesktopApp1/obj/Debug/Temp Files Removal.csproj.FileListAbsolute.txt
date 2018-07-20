@@ -1,0 +1,11 @@
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Temp Files Removal.exe.config
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Temp Files Removal.exe
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Temp Files Removal.pdb
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form2.resources
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form3.resources
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\TempFilesRemoval.Properties.Resources.resources
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.csproj.GenerateResource.cache
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.csproj.CoreCompileInputs.cache
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.exe
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.pdb
