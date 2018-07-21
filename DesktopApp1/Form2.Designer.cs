@@ -51,6 +51,7 @@
             this.button8 = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -280,11 +281,21 @@
             this.label14.TabIndex = 23;
             this.label14.Text = " Requires Admin*";
             // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(191, 125);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(88, 13);
+            this.label15.TabIndex = 24;
+            this.label15.Text = " Requires Admin*";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(433, 292);
+            this.Controls.Add(this.label15);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.button8);
@@ -341,5 +352,6 @@
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label15;
     }
 }

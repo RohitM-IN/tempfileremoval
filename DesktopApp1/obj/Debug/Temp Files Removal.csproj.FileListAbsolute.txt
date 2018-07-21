@@ -9,3 +9,4 @@ C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.
 C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.csproj.CoreCompileInputs.cache
 C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.exe
 C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.pdb
+C:\Users\TEST\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Temp Files Removal.csprojAssemblyReference.cache

@@ -76,13 +76,13 @@ namespace DesktopApp1
 
         private void button4_Click(object sender, EventArgs e)
         {
-            System.IO.StreamWriter SW = new System.IO.StreamWriter("Tempremoval.bat");
-            SW.WriteLine(@"\\server-name\directory\PsExec.exe -u Admin -d -e cmd.exe /c \\TempFilesRemoval\batrun\Tempremoval.bat");
+            System.IO.StreamWriter SW = new System.IO.StreamWriter("LogRemoval.bat");
+            SW.WriteLine(@"\\server-name\directory\PsExec.exe -u Admin -d -e cmd.exe /c \\TempFilesRemoval\batrun\LogRemoval.bat");
             SW.Flush();
             SW.Close();
             SW.Dispose();
             SW = null;
-            System.Diagnostics.Process.Start("C:/TempFilesRemoval/batrun/Tempremoval.bat");
+            System.Diagnostics.Process.Start("C:/TempFilesRemoval/batrun/LogRemoval.bat");
           
         }
 
